@@ -40,8 +40,3 @@
 
 ###
 
-<div align="center">
-  <img height="192" src="https://drive.google.com/file/d/18wcNW0ojrRX6DUhTXThqsAShOVOOfseU/view?usp=sharing"  />
-</div>
-
-###
