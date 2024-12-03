@@ -6,13 +6,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 # 💫 About Me:
- My Name is Samar Kashef, and I am from Egypt, I have a master's degree in industrial engineering. <be> ✨I am working as a freelancer data analyst  📚 I'm currently learning SQL & Python<br> 🎯 My Goal: Is To Be A Data Engineer<br> 🎲 Fun fact: I can learn anything from scratch<br>
+I'm Samar Kashef, an Egyptian native with a master's degree in industrial engineering. <be> ✨I am working as a freelancer data analyst  📚 I'm currently learning SQL & Python<br> 🎯 My Goal: Is To Be A Data Engineer<br> 🎲 Fun fact: I can learn anything from scratch<br>
 
 ### [Projects](https://github.com/Samarkashef/Power-Bi)
 Hr Analysis (Power bi)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/samar-kashef) 
 
 ###
 
