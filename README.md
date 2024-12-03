@@ -4,8 +4,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ## 💫 About Me:
-I'm Samar Kashef, an Egyptian native with a master's degree in industrial engineering. <be> 
-✨I am working as a freelancer data analyst 
+I'm Samar Kashef,an Egyptian native with a master's degree in industrial engineering.<be> 
+✨I am working as a freelancer data analyst <br>
 📚 I'm currently learning SQL & Python<br> 
 🎯 My Goal: Is To Be A Data Engineer<br> 
 🎲 Fun fact: I can learn anything from scratch<br>
