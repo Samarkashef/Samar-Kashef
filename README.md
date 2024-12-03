@@ -3,8 +3,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-## 💫 About Me:
-I'm Samar Kashef,an Egyptian native with a master's degree in industrial engineering.<br> 
+## About Me:
+💫 I'm Samar Kashef, an Egyptian native with a master's degree in industrial engineering.<br> 
 ✨I am working as a freelancer data analyst <br>
 📚 I'm currently learning SQL & Python<br> 
 🎯 My Goal: Is To Be A Data Engineer<br> 
@@ -27,15 +27,15 @@ I'm Samar Kashef,an Egyptian native with a master's degree in industrial enginee
 ## [Projects](https://github.com/Samarkashef/Power-Bi)
 ###  Hr Analysis (Power bi)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samarkashef&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Samarkashef&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarkashef&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Samarkashef&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 
