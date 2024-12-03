@@ -38,6 +38,6 @@
   </a>
 </div>
 
-### [Power Bi](https://github.com/Samarkashef/Power-Bi)
-Hr Analysis
+### [Projects](https://github.com/Samarkashef/Power-Bi)
+Hr Analysis (Power bi)
 
