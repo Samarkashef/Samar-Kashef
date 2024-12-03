@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Creating Dashboards<br>📚 I'm currently learning SQL & Python<br>🎯 Goals: Is To Be A Data Engineer<br>🎲 Fun fact: I can learn anything from scratch</h5>
+<h5 align="left">✨ Creating Dashboards<br>📚 I'm currently learning SQL & Python<br>🎯 Goals: Is To Be A Data Engineer<br>🎲 Fun fact: I can learn anything from scratch</h5> contact me: freesamarmasa@gmail.com
 
 ###
 
